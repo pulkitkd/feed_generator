@@ -1,0 +1,11 @@
+{
+    "lecture_notes": [
+      {"title": "Viscous Flows and Turbulence", "url": "http://profs.sci.univr.it/~zuccher/downloads/FD-MAE553-Smits.pdf"},
+      {"title": "A Physical Introduction to Fluid Mechanics", "url": "http://www.efluids.com/efluids/books/Smits_text_part2.pdf"},
+      {"title": "Lecture Notes on Nonlinear Dynamics", "url": "https://courses.physics.ucsd.edu/2022/Spring/physics221a/LECTURES/NONLINEAR.pdf"},
+      {"title": "An Introduction to Fluid Turbulence", "url": "https://perso.ens-lyon.fr/corentin.herbert/docs/turbulence_course.pdf"},
+      {"title": "Fluid Mechanics, Turbulent Flow and Turbulence Modeling", "url": "https://www.tfd.chalmers.se/~lada/postscript_files/solids-and-fluids_turbulent-flow_turbulence-modelling.pdf"},
+      {"title": "The Navier-Stokes Equations: Turbulence", "url": "https://projects.iq.harvard.edu/files/ac274_2015/files/lecture4.pdf"},
+      {"title": "Basic Turbulence", "url": "https://www.astronomy.ohio-state.edu/ryden.1/ast825/ch7.pdf"}
+    ]
+  }
